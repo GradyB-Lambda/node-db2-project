@@ -30,15 +30,8 @@ The client for this API is a car dealer who has provided the following specs:
 - The critical information for each car is the VIN, make, model, and mileage.
 - They also track transmission type and status of the title (clean, salvage, etc.), but this information is not always immediately known.
 
-### Task 3: Stretch Problems
-
-- Add seed data to the database using `knex seeds`
-- Add `UPDATE` and `DELETE` operations to your API.
-- Write a schema file for a `sales` table. This table should track information on the sale of each car. You may wish to research `foreign keys` in order to link each sale to the entry in `cars` which sold.
-
 ## Submission format
 
 Follow these steps for completing your project.
 
-- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's  Repo). **Please don't merge your own pull request**
-
+- [ ] Submit a pull request to merge <firstName-lastName> Branch into master (student's Repo). **Please don't merge your own pull request**
